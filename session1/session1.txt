@@ -1,0 +1,6 @@
+Install these extensions
+
+1. live server
+2. html snippets
+3. Auto Close Tag
+4. Auto Rename Tag
